@@ -1,2 +1,2 @@
 # online-advising
-Program to demonstrate online advising process.
+Project to Demonstrate Incident Tracking process with automatic request acceptance/denial.
